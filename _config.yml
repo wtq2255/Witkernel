@@ -87,5 +87,5 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repository: git@github.com:wtq2255/Witkernel.github.io.git
+  repository: git@github.com:wtq2255/Witkernel.git
   branch: master
