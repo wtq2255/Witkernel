@@ -87,5 +87,5 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repository: https://github.com/wtq2255/wtq2255.github.io.git
+  repository: https://github.com/wtq2255/wtq2255.github.com.git
   branch: master
